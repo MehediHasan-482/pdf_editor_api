@@ -1,0 +1,1 @@
+Place NotoSansBengali-Regular.ttf in this folder before testing Bangla PDF generation.
